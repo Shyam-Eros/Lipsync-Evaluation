@@ -1,0 +1,23 @@
+# Reference-free dubbed-movie lip-sync evaluation
+# System ffmpeg required on PATH.
+
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.23.0,<2.0.0
+scipy>=1.10.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+python_speech_features>=0.6
+scikit-image>=0.21.0
+tqdm>=4.65.0
+scenedetect>=0.6.2
+ffmpeg-python>=0.2.0
+pytorch-fid>=0.3.0
+insightface>=0.7.3
+onnxruntime>=1.16.0
+mediapipe>=0.10.0
+huggingface_hub>=0.20.0
+openai-whisper>=20231117
+pytest>=7.0.0
+# VAD: energy-based fallback is built-in; optional webrtcvad if pkg_resources available:
+# webrtcvad>=2.0.10

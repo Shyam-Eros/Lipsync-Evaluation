@@ -1,0 +1,5 @@
+TB_DUB Inference path = "/local-workspace/gowtham.s/lip-sync_inference/TB-DUB/TBDub/results_1/video_tbdub.mp4" 
+
+LIP forcing path = "/local-workspace/gowtham.s/lip-sync_inference/lip_forcing/LipForcing/out_sample3.mp4" 
+
+XDUB_path = "/local-workspace/gowtham.s/lip-sync_inference/x-dub/X-Dub/2_opt/job_eccd1d01_final.mp4"

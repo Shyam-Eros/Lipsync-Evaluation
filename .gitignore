@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+**/__pycache__/
+tmp/
+_legacy_pipeline/
+results/*.csv
+results/logs/*
+results/qc_clips/
+!results/.gitkeep
+!results/logs/.gitkeep
+syncnet/data/*.model
+syncnet/detectors/s3fd/weights/*.pth
+models/
+*.egg-info/
+.pytest_cache/
